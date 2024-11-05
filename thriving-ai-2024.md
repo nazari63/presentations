@@ -4,7 +4,7 @@
 
 ## Jadi
 - jadi.net
-- telegram: varlogjadi
+- telegram: jadivarlog
 - instagram: jadijadinet
 - youtube: jadimirmirani
 - ...
@@ -19,6 +19,7 @@
 - AI is reshaping industries at an unprecedented pace.
 - Automation is impacting roles in programming, data analysis, healthcare, and more.
 - Adaptability and human-centric skills are essential to thrive.
+- Iran is lagging behind because of our tech-gap.
 
 ---
 
@@ -26,15 +27,14 @@
 
 ### 1. Emotional Intelligence
 
-- **Empathy**
-- **Adaptability**
-- **Active listening**
+- Empathy
+- Adaptability
 
 ### 2. Creativity
 
-- **Storytelling**
-- **Ideation**
-- **Design Thinking**
+- Storytelling
+- Ideation
+- Iterative design
 
 ---
 
@@ -49,7 +49,6 @@
 ### 4. System Thinking
 
 - Understand complex **system interactions**.
-- Valuable in **environmental sciences**, **urban planning**, **supply chain management**.
 
 ---
 
@@ -63,7 +62,7 @@
 ### 6. Data-Driven Decision-Making
 
 - Interpret **data insights**.
-- Use **AI tools** to inform decisions in roles like marketing, finance, and operations.
+- Use **AI tools** to inform decisions (marketing, finance, operations, ...)
 
 ---
 
@@ -82,29 +81,13 @@
 
 ---
 
-## Fields That Require a Human Touch
-
-### 9. Human-Centric Fields
-
-- Healthcare
-- Education
-- Social Work
-
-### 10. Creative Professions
-
-- **Writing**
-- **Visual Arts**
-- **Music**
-
----
-
 ## Shaping AI and Its Ethical Use
 
-### 11. Ethics & Regulation
+### 9. Ethics & Regulation
 
 - Demand is growing for **AI ethics and societal impact** roles.
 
-### 12. Policy Advocacy
+### 10. Policy Advocacy
 
 - Skills in **governance**, **regulatory policy**, and **ethics** are essential.
 
@@ -112,12 +95,12 @@
 
 ## Hybrid Roles with AI
 
-### 13. Hybrid Roles
+### 11. Hybrid Roles
 
 - AI-assisted project management
 - Data-driven marketing with AI support
 
-### 14. AI Operations and Management
+### 12. AI Operations and Management
 
 - Oversight of **AI systems**
 - **Quality control** of AI solutions
