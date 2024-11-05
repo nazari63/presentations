@@ -30,23 +30,11 @@
 - **Adaptability**
 - **Active listening**
 
-#### Where It’s Relevant:
-- Healthcare
-- Counseling
-- Customer relations
-
----
-
 ### 2. Creativity
 
 - **Storytelling**
 - **Ideation**
 - **Design Thinking**
-
-#### Where It’s Relevant:
-- Arts
-- Marketing
-- Product Innovation
 
 ---
 
@@ -57,12 +45,6 @@
 - Focus on the **big picture**.
 - Develop **long-term strategies**.
 - Anticipate **unintended consequences**.
-
-#### Relevant Roles:
-- Leadership
-- Policy-making
-
----
 
 ### 4. System Thinking
 
