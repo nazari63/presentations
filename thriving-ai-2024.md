@@ -1,3 +1,5 @@
+<!-- class: invert -->
+
 # Thriving in an AI-Driven World
 
 ---
